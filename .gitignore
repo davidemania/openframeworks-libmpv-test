@@ -1,0 +1,14 @@
+obj
+bin
+.vscode/ipch
+.vscode/browse.db
+data/localmedia/*
+.DS_Store
+._*
+OSXFUSE*
+*log.txt
+log*.txt
+
+openFrameworks
+data/test.mov
+simple

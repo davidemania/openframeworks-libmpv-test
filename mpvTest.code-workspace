@@ -1,0 +1,25 @@
+{
+	"folders": [
+        {
+            "path": "."
+        }
+    ],
+	"settings": {
+        "files.exclude": {
+            "**/._*": true,
+            "**/.DS_Store": true,
+            "**/.git": true,
+            "**/.hg": true,
+            "**/.svn": true,
+            "**/bin": true,
+            "**/CVS": true,
+            "**/obj": true
+        },
+        "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+        "editor.fontSize": 12,
+        "window.zoomLevel": -1,
+        "workbench.colorTheme": "Default Light+",
+        "terminal.integrated.fontSize": 12
+    }
+    
+}
